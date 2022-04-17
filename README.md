@@ -13,11 +13,11 @@ It only includes Redux integration.
 ```
 .
 
-├── src                                # Application source code
-│   ├── components           # Counter Component in this folder
-│   ├── redux                      # Redux
-│   │   ├── action                # Actions
-│   │   ├── reducer             # Reducers
+├── src                  # Application source code
+│   ├── components       # Counter Component in this folder
+│   ├── redux            # Redux
+│   │   ├── action       # Actions
+│   │   ├── reducer      # Reducers
 │   │   ├── store.js
 ```
 
